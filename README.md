@@ -1,4 +1,4 @@
-# CSCI-526-Brain-Simulation
+# CSCI-596-Brain-Simulation
 ## Project idea
 Neurons are the elementary processing units in the brain and central nervous system. The goal of our project is using Izhikevich neurons model to simulate the dynamic neural activity.
 
